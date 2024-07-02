@@ -1,1 +1,1 @@
-# CBTCIP
+Hello, I am Ria Mukherjee . This is the repository for all of the works I've completed in my virtual internship at CipherByte Technologies. At first, I have the Iris Flower and data and it's respective Classification model. Finally, we have the Spam Email Detector.
